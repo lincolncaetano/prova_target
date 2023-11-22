@@ -5,8 +5,6 @@ permitindo que seja editado e excluindo usando o MobX.
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * [Flutter 3.13.6](https://docs.flutter.dev/release/archive)
 * [mobx](https://pub.dev/packages/mobx) - Gestão de Dados
 * [flutter_mobx](https://pub.dev/packages/flutter_mobx) - Gestão de Dados
